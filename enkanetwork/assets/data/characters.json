@@ -27,7 +27,6 @@
         "costElemType": "Wind",
         "skills": [
             10031,
-            10033,
             10034
         ],
         "talents": [
@@ -37,6 +36,37 @@
             34,
             35,
             36
+        ]
+    },
+    "10000005-501": {
+        "nameTextMapHash": 1533656818,
+        "iconName": "UI_AvatarIcon_PlayerBoy",
+        "sideIconName": "UI_AvatarIcon_Side_PlayerBoy",
+        "qualityType": "QUALITY_ORANGE",
+        "costElemType": "",
+        "skills": [
+            100540
+        ],
+        "talents": []
+    },
+    "10000005-502": {
+        "nameTextMapHash": 1533656818,
+        "iconName": "UI_AvatarIcon_PlayerBoy",
+        "sideIconName": "UI_AvatarIcon_Side_PlayerBoy",
+        "qualityType": "QUALITY_ORANGE",
+        "costElemType": "Fire",
+        "skills": [
+            100541,
+            10097,
+            10098
+        ],
+        "talents": [
+            51,
+            52,
+            53,
+            54,
+            55,
+            56
         ]
     },
     "10000005-503": {
@@ -78,6 +108,17 @@
             75,
             76
         ]
+    },
+    "10000005-505": {
+        "nameTextMapHash": 1533656818,
+        "iconName": "UI_AvatarIcon_PlayerBoy",
+        "sideIconName": "UI_AvatarIcon_Side_PlayerBoy",
+        "qualityType": "QUALITY_ORANGE",
+        "costElemType": "Wind",
+        "skills": [
+            100544
+        ],
+        "talents": []
     },
     "10000005-506": {
         "nameTextMapHash": 1533656818,
@@ -145,19 +186,8 @@
         "sideIconName": "UI_AvatarIcon_Side_PlayerBoy",
         "qualityType": "QUALITY_ORANGE",
         "costElemType": "Grass",
-        "skills": [
-            100547,
-            10117,
-            10118
-        ],
-        "talents": [
-            111,
-            112,
-            113,
-            114,
-            115,
-            116
-        ]
+        "skills": [],
+        "talents": []
     },
     "10000006": {
         "nameTextMapHash": 3344622722,
@@ -167,7 +197,6 @@
         "costElemType": "Electric",
         "skills": [
             10060,
-            10061,
             10062
         ],
         "talents": [
@@ -177,6 +206,37 @@
             44,
             45,
             46
+        ]
+    },
+    "10000007-701": {
+        "nameTextMapHash": 3816664530,
+        "iconName": "UI_AvatarIcon_PlayerGirl",
+        "sideIconName": "UI_AvatarIcon_Side_PlayerGirl",
+        "qualityType": "QUALITY_ORANGE",
+        "costElemType": "",
+        "skills": [
+            100550
+        ],
+        "talents": []
+    },
+    "10000007-702": {
+        "nameTextMapHash": 3816664530,
+        "iconName": "UI_AvatarIcon_PlayerGirl",
+        "sideIconName": "UI_AvatarIcon_Side_PlayerGirl",
+        "qualityType": "QUALITY_ORANGE",
+        "costElemType": "Fire",
+        "skills": [
+            100551,
+            10097,
+            10098
+        ],
+        "talents": [
+            51,
+            52,
+            53,
+            54,
+            55,
+            56
         ]
     },
     "10000007-703": {
@@ -218,6 +278,17 @@
             75,
             76
         ]
+    },
+    "10000007-705": {
+        "nameTextMapHash": 3816664530,
+        "iconName": "UI_AvatarIcon_PlayerGirl",
+        "sideIconName": "UI_AvatarIcon_Side_PlayerGirl",
+        "qualityType": "QUALITY_ORANGE",
+        "costElemType": "Wind",
+        "skills": [
+            100554
+        ],
+        "talents": []
     },
     "10000007-706": {
         "nameTextMapHash": 3816664530,
@@ -285,19 +356,8 @@
         "sideIconName": "UI_AvatarIcon_Side_PlayerGirl",
         "qualityType": "QUALITY_ORANGE",
         "costElemType": "Grass",
-        "skills": [
-            100557,
-            10117,
-            10118
-        ],
-        "talents": [
-            111,
-            112,
-            113,
-            114,
-            115,
-            116
-        ]
+        "skills": [],
+        "talents": []
     },
     "10000014": {
         "nameTextMapHash": 3775299170,
@@ -307,7 +367,6 @@
         "costElemType": "Water",
         "skills": [
             10070,
-            10071,
             10072
         ],
         "talents": [
@@ -387,7 +446,6 @@
         "costElemType": "Fire",
         "skills": [
             10041,
-            10032,
             10017
         ],
         "talents": [
@@ -420,10 +478,10 @@
         ]
     },
     "10000023": {
-        "nameTextMapHash": 1130996346,
-        "iconName": "UI_AvatarIcon_Xiangling",
-        "sideIconName": "UI_AvatarIcon_Side_Xiangling",
-        "qualityType": "QUALITY_PURPLE",
+        "nameTextMapHash": 3293134650,
+        "iconName": "UI_AvatarIcon_Mavuika",
+        "sideIconName": "UI_AvatarIcon_Side_Mavuika",
+        "qualityType": "QUALITY_ORANGE",
         "costElemType": "Fire",
         "skills": [
             10231,
@@ -447,7 +505,6 @@
         "costElemType": "Electric",
         "skills": [
             10241,
-            10242,
             10245
         ],
         "talents": [
@@ -727,7 +784,6 @@
         "costElemType": "Ice",
         "skills": [
             10391,
-            10392,
             10395
         ],
         "talents": [
@@ -840,7 +896,7 @@
         ]
     },
     "10000046": {
-        "nameTextMapHash": 1940919994,
+        "nameTextMapHash": 853394138,
         "iconName": "UI_AvatarIcon_Hutao",
         "sideIconName": "UI_AvatarIcon_Side_Hutao",
         "qualityType": "QUALITY_ORANGE",
@@ -1027,7 +1083,6 @@
         "costElemType": "Rock",
         "skills": [
             10551,
-            10552,
             10555
         ],
         "talents": [
@@ -1047,7 +1102,6 @@
         "costElemType": "Electric",
         "skills": [
             10561,
-            10562,
             10565
         ],
         "talents": [
@@ -1087,7 +1141,6 @@
         "costElemType": "Electric",
         "skills": [
             10581,
-            10582,
             10585
         ],
         "talents": [
@@ -1367,7 +1420,6 @@
         "costElemType": "Water",
         "skills": [
             10721,
-            10722,
             10725
         ],
         "talents": [
@@ -1819,6 +1871,25 @@
             946
         ]
     },
+    "10000095": {
+        "nameTextMapHash": 781488962,
+        "iconName": "UI_AvatarIcon_Sigewinne",
+        "sideIconName": "UI_AvatarIcon_Side_Sigewinne",
+        "qualityType": "QUALITY_ORANGE",
+        "costElemType": "Water",
+        "skills": [
+            10951,
+            10955
+        ],
+        "talents": [
+            951,
+            952,
+            953,
+            954,
+            955,
+            956
+        ]
+    },
     "10000096": {
         "nameTextMapHash": 167199474,
         "iconName": "UI_AvatarIcon_Arlecchino",
@@ -1838,5 +1909,314 @@
             965,
             966
         ]
+    },
+    "10000097": {
+        "nameTextMapHash": 1431322346,
+        "iconName": "UI_AvatarIcon_Sethos",
+        "sideIconName": "UI_AvatarIcon_Side_Sethos",
+        "qualityType": "QUALITY_PURPLE",
+        "costElemType": "Electric",
+        "skills": [
+            10971,
+            10972,
+            10975
+        ],
+        "talents": [
+            971,
+            972,
+            973,
+            974,
+            975,
+            976
+        ]
+    },
+    "10000098": {
+        "nameTextMapHash": 2745369298,
+        "iconName": "UI_AvatarIcon_Clorinde",
+        "sideIconName": "UI_AvatarIcon_Side_Clorinde",
+        "qualityType": "QUALITY_ORANGE",
+        "costElemType": "Electric",
+        "skills": [
+            10981,
+            10982,
+            10985
+        ],
+        "talents": [
+            981,
+            982,
+            983,
+            984,
+            985,
+            986
+        ]
+    },
+    "10000099": {
+        "nameTextMapHash": 1705786122,
+        "iconName": "UI_AvatarIcon_Emilie",
+        "sideIconName": "UI_AvatarIcon_Side_Emilie",
+        "qualityType": "QUALITY_ORANGE",
+        "costElemType": "Grass",
+        "skills": [
+            10991,
+            10992,
+            10995
+        ],
+        "talents": [
+            991,
+            992,
+            993,
+            994,
+            995,
+            996
+        ]
+    },
+    "10000100": {
+        "nameTextMapHash": 2531816890,
+        "iconName": "UI_AvatarIcon_Kachina",
+        "sideIconName": "UI_AvatarIcon_Side_Kachina",
+        "qualityType": "QUALITY_PURPLE",
+        "costElemType": "Rock",
+        "skills": [
+            11001,
+            11002,
+            11005
+        ],
+        "talents": [
+            1001,
+            1002,
+            1003,
+            1004,
+            1005,
+            1006
+        ]
+    },
+    "10000101": {
+        "nameTextMapHash": 4172712634,
+        "iconName": "UI_AvatarIcon_Kinich",
+        "sideIconName": "UI_AvatarIcon_Side_Kinich",
+        "qualityType": "QUALITY_ORANGE",
+        "costElemType": "Grass",
+        "skills": [
+            11011,
+            11012,
+            11015
+        ],
+        "talents": [
+            1011,
+            1012,
+            1013,
+            1014,
+            1015,
+            1016
+        ]
+    },
+    "10000102": {
+        "nameTextMapHash": 3949670506,
+        "iconName": "UI_AvatarIcon_Mualani",
+        "sideIconName": "UI_AvatarIcon_Side_Mualani",
+        "qualityType": "QUALITY_ORANGE",
+        "costElemType": "Water",
+        "skills": [
+            30000,
+            30002,
+            30007
+        ],
+        "talents": [
+            1021,
+            1022,
+            1023,
+            1024,
+            1025,
+            1026
+        ]
+    },
+    "10000103": {
+        "nameTextMapHash": 2515292882,
+        "iconName": "UI_AvatarIcon_Xilonen",
+        "sideIconName": "UI_AvatarIcon_Side_Xilonen",
+        "qualityType": "QUALITY_ORANGE",
+        "costElemType": "Rock",
+        "skills": [
+            11031,
+            11032,
+            11035
+        ],
+        "talents": [
+            1031,
+            1032,
+            1033,
+            1034,
+            1035,
+            1036
+        ]
+    },
+    "10000104": {
+        "nameTextMapHash": 3746229466,
+        "iconName": "UI_AvatarIcon_Chasca",
+        "sideIconName": "UI_AvatarIcon_Side_Chasca",
+        "qualityType": "QUALITY_ORANGE",
+        "costElemType": "Wind",
+        "skills": [
+            11041,
+            11042,
+            11045
+        ],
+        "talents": [
+            1041,
+            1042,
+            1043,
+            1044,
+            1045,
+            1046
+        ]
+    },
+    "10000105": {
+        "nameTextMapHash": 1198350762,
+        "iconName": "UI_AvatarIcon_Olorun",
+        "sideIconName": "UI_AvatarIcon_Side_Olorun",
+        "qualityType": "QUALITY_PURPLE",
+        "costElemType": "Electric",
+        "skills": [
+            30501,
+            30502,
+            30505
+        ],
+        "talents": [
+            1051,
+            1052,
+            1053,
+            1054,
+            1055,
+            1056
+        ]
+    },
+    "10000106": {
+        "nameTextMapHash": 113398050,
+        "iconName": "UI_AvatarIcon_Mavuika",
+        "sideIconName": "UI_AvatarIcon_Side_Mavuika",
+        "qualityType": "QUALITY_ORANGE",
+        "costElemType": "Fire",
+        "skills": [
+            11061,
+            11062,
+            11065
+        ],
+        "talents": [
+            1061,
+            1062,
+            1063,
+            1064,
+            1065,
+            1066
+        ]
+    },
+    "10000107": {
+        "nameTextMapHash": 1197975042,
+        "iconName": "UI_AvatarIcon_Citlali",
+        "sideIconName": "UI_AvatarIcon_Side_Citlali",
+        "qualityType": "QUALITY_ORANGE",
+        "costElemType": "Ice",
+        "skills": [
+            11071,
+            11072,
+            11075
+        ],
+        "talents": [
+            1071,
+            1072,
+            1073,
+            1074,
+            1075,
+            1076
+        ]
+    },
+    "10000108": {
+        "nameTextMapHash": 1888132250,
+        "iconName": "UI_AvatarIcon_Lanyan",
+        "sideIconName": "UI_AvatarIcon_Side_Lanyan",
+        "qualityType": "QUALITY_PURPLE",
+        "costElemType": "Wind",
+        "skills": [
+            11081,
+            11082,
+            11085
+        ],
+        "talents": [
+            1081,
+            1082,
+            1083,
+            1084,
+            1085,
+            1086
+        ]
+    },
+    "10000109": {
+        "nameTextMapHash": 3784387538,
+        "iconName": "UI_AvatarIcon_Mizuki",
+        "sideIconName": "UI_AvatarIcon_Side_Mizuki",
+        "qualityType": "QUALITY_ORANGE",
+        "costElemType": "Wind",
+        "skills": [
+            11091,
+            11092,
+            11095
+        ],
+        "talents": [
+            1091,
+            1092,
+            1093,
+            1094,
+            1095,
+            1096
+        ]
+    },
+    "10000110": {
+        "nameTextMapHash": 3120492514,
+        "iconName": "UI_AvatarIcon_Iansan",
+        "sideIconName": "UI_AvatarIcon_Side_Iansan",
+        "qualityType": "QUALITY_PURPLE",
+        "costElemType": "Electric",
+        "skills": [
+            11101,
+            11102,
+            11105
+        ],
+        "talents": [
+            1101,
+            1102,
+            1103,
+            1104,
+            1105,
+            1106
+        ]
+    },
+    "10000111": {
+        "nameTextMapHash": 283438874,
+        "iconName": "UI_AvatarIcon_Varesa",
+        "sideIconName": "UI_AvatarIcon_Side_Varesa",
+        "qualityType": "QUALITY_ORANGE",
+        "costElemType": "Electric",
+        "skills": [
+            11111,
+            11112,
+            11115
+        ],
+        "talents": [
+            1111,
+            1112,
+            1113,
+            1114,
+            1115,
+            1116
+        ]
+    },
+    "10000001": {
+        "nameTextMapHash": 1272638962,
+        "iconName": "UI_AvatarIcon_PlayerBoy",
+        "sideIconName": "UI_AvatarIcon_Side_PlayerBoy",
+        "qualityType": "QUALITY_PURPLE",
+        "costElemType": "",
+        "skills": [],
+        "talents": []
     }
 }

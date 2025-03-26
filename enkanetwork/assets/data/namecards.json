@@ -1948,5 +1948,415 @@
         ],
         "rankLevel": 4,
         "materialType": "MATERIAL_NAMECARD"
+    },
+    "210200": {
+        "nameTextMapHash": 1434145132,
+        "icon": "UI_NameCardIcon_Clorinde",
+        "picPath": [
+            "UI_NameCardPic_Clorinde_Alpha",
+            "UI_NameCardPic_Clorinde_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
+    },
+    "210201": {
+        "nameTextMapHash": 2519862828,
+        "icon": "UI_NameCardIcon_Sigewinne",
+        "picPath": [
+            "UI_NameCardPic_Sigewinne_Alpha",
+            "UI_NameCardPic_Sigewinne_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
+    },
+    "210202": {
+        "nameTextMapHash": 3809875516,
+        "icon": "UI_NameCardIcon_Sethos",
+        "picPath": [
+            "UI_NameCardPic_Sethos_Alpha",
+            "UI_NameCardPic_Sethos_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
+    },
+    "210203": {
+        "nameTextMapHash": 3545893804,
+        "icon": "UI_NameCardIcon_RoleCombat",
+        "picPath": [
+            "UI_NameCardPic_RoleCombat_Alpha",
+            "UI_NameCardPic_RoleCombat_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
+    },
+    "210204": {
+        "nameTextMapHash": 3965647636,
+        "icon": "UI_NameCardIcon_Bp33",
+        "picPath": [
+            "UI_NameCardPic_Bp33_Alpha",
+            "UI_NameCardPic_Bp33_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
+    },
+    "210205": {
+        "nameTextMapHash": 2842121124,
+        "icon": "UI_NameCardIcon_Emilie",
+        "picPath": [
+            "UI_NameCardPic_Emilie_Alpha",
+            "UI_NameCardPic_Emilie_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
+    },
+    "210206": {
+        "nameTextMapHash": 1026212828,
+        "icon": "UI_NameCardIcon_Bp34",
+        "picPath": [
+            "UI_NameCardPic_Bp34_Alpha",
+            "UI_NameCardPic_Bp34_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
+    },
+    "210207": {
+        "nameTextMapHash": 1919389884,
+        "icon": "UI_NameCardIcon_RedandWhite2",
+        "picPath": [
+            "UI_NameCardPic_RedandWhite2_Alpha",
+            "UI_NameCardPic_RedandWhite2_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
+    },
+    "210208": {
+        "nameTextMapHash": 1606225092,
+        "icon": "UI_NameCardIcon_Kinich",
+        "picPath": [
+            "UI_NameCardPic_Kinich_Alpha",
+            "UI_NameCardPic_Kinich_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
+    },
+    "210209": {
+        "nameTextMapHash": 3760846220,
+        "icon": "UI_NameCardIcon_Mualani",
+        "picPath": [
+            "UI_NameCardPic_Mualani_Alpha",
+            "UI_NameCardPic_Mualani_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
+    },
+    "210210": {
+        "nameTextMapHash": 2554912596,
+        "icon": "UI_NameCardIcon_Kachina",
+        "picPath": [
+            "UI_NameCardPic_Kachina_Alpha",
+            "UI_NameCardPic_Kachina_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
+    },
+    "210211": {
+        "nameTextMapHash": 2843734004,
+        "icon": "UI_NameCardIcon_NatlanSW1",
+        "picPath": [
+            "UI_NameCardPic_NatlanSW1_Alpha",
+            "UI_NameCardPic_NatlanSW1_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
+    },
+    "210212": {
+        "nameTextMapHash": 653393756,
+        "icon": "UI_NameCardIcon_NatlanSW2",
+        "picPath": [
+            "UI_NameCardPic_NatlanSW2_Alpha",
+            "UI_NameCardPic_NatlanSW2_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
+    },
+    "210213": {
+        "nameTextMapHash": 1305810940,
+        "icon": "UI_NameCardIcon_Ysxf5",
+        "picPath": [
+            "UI_NameCardPic_Ysxf5_Alpha",
+            "UI_NameCardPic_Ysxf5_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
+    },
+    "210214": {
+        "nameTextMapHash": 1070873436,
+        "icon": "UI_NameCardIcon_RoleCombat2",
+        "picPath": [
+            "UI_NameCardPic_RoleCombat2_Alpha",
+            "UI_NameCardPic_RoleCombat2_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
+    },
+    "210215": {
+        "nameTextMapHash": 3458103500,
+        "icon": "UI_NameCardIcon_Natlan1",
+        "picPath": [
+            "UI_NameCardPic_Natlan1_Alpha",
+            "UI_NameCardPic_Natlan1_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
+    },
+    "210216": {
+        "nameTextMapHash": 3849522924,
+        "icon": "UI_NameCardIcon_Dfcq1",
+        "picPath": [
+            "UI_NameCardPic_Dfcq1_Alpha",
+            "UI_NameCardPic_Dfcq1_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
+    },
+    "210217": {
+        "nameTextMapHash": 3285143108,
+        "icon": "UI_NameCardIcon_Bp35",
+        "picPath": [
+            "UI_NameCardPic_Bp35_Alpha",
+            "UI_NameCardPic_Bp35_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
+    },
+    "210218": {
+        "nameTextMapHash": 893559876,
+        "icon": "UI_NameCardIcon_Yellow",
+        "picPath": [
+            "UI_NameCardPic_Yellow_Alpha",
+            "UI_NameCardPic_Yellow_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
+    },
+    "210219": {
+        "nameTextMapHash": 1731853172,
+        "icon": "UI_NameCardIcon_Xilonen",
+        "picPath": [
+            "UI_NameCardPic_Xilonen_Alpha",
+            "UI_NameCardPic_Xilonen_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
+    },
+    "210220": {
+        "nameTextMapHash": 3875363388,
+        "icon": "UI_NameCardIcon_Bp36",
+        "picPath": [
+            "UI_NameCardPic_Bp36_Alpha",
+            "UI_NameCardPic_Bp36_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
+    },
+    "210221": {
+        "nameTextMapHash": 4278710644,
+        "icon": "UI_NameCardIcon_Chasca",
+        "picPath": [
+            "UI_NameCardPic_Chasca_Alpha",
+            "UI_NameCardPic_Chasca_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
+    },
+    "210222": {
+        "nameTextMapHash": 142182812,
+        "icon": "UI_NameCardIcon_Olorun",
+        "picPath": [
+            "UI_NameCardPic_Olorun_Alpha",
+            "UI_NameCardPic_Olorun_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
+    },
+    "210223": {
+        "nameTextMapHash": 3119227452,
+        "icon": "UI_NameCardIcon_Natlan2",
+        "picPath": [
+            "UI_NameCardPic_Natlan2_Alpha",
+            "UI_NameCardPic_Natlan2_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
+    },
+    "210224": {
+        "nameTextMapHash": 1955675780,
+        "icon": "UI_NameCardIcon_Dfcq2",
+        "picPath": [
+            "UI_NameCardPic_Dfcq2_Alpha",
+            "UI_NameCardPic_Dfcq2_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
+    },
+    "210225": {
+        "nameTextMapHash": 141626612,
+        "icon": "UI_NameCardIcon_Bp37",
+        "picPath": [
+            "UI_NameCardPic_Bp37_Alpha",
+            "UI_NameCardPic_Bp37_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
+    },
+    "210226": {
+        "nameTextMapHash": 4132784100,
+        "icon": "UI_NameCardIcon_Mavuika",
+        "picPath": [
+            "UI_NameCardPic_Mavuika_Alpha",
+            "UI_NameCardPic_Mavuika_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
+    },
+    "210227": {
+        "nameTextMapHash": 653858276,
+        "icon": "UI_NameCardIcon_Citlali",
+        "picPath": [
+            "UI_NameCardPic_Citlali_Alpha",
+            "UI_NameCardPic_Citlali_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
+    },
+    "210228": {
+        "nameTextMapHash": 12824332,
+        "icon": "UI_NameCardIcon_Lanyan",
+        "picPath": [
+            "UI_NameCardPic_Lanyan_Alpha",
+            "UI_NameCardPic_Lanyan_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
+    },
+    "210229": {
+        "nameTextMapHash": 2492545436,
+        "icon": "UI_NameCardIcon_Csxy5",
+        "picPath": [
+            "UI_NameCardPic_Csxy5_Alpha",
+            "UI_NameCardPic_Csxy5_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
+    },
+    "210230": {
+        "nameTextMapHash": 893797092,
+        "icon": "UI_NameCardIcon_Tzz10",
+        "picPath": [
+            "UI_NameCardPic_Tzz10_Alpha",
+            "UI_NameCardPic_Tzz10_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
+    },
+    "210231": {
+        "nameTextMapHash": 1556804276,
+        "icon": "UI_NameCardIcon_MusicGame01",
+        "picPath": [
+            "UI_NameCardPic_MusicGame01_Alpha",
+            "UI_NameCardPic_MusicGame01_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
+    },
+    "210232": {
+        "nameTextMapHash": 526870476,
+        "icon": "UI_NameCardIcon_Bp38",
+        "picPath": [
+            "UI_NameCardPic_Bp38_Alpha",
+            "UI_NameCardPic_Bp38_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
+    },
+    "210233": {
+        "nameTextMapHash": 881031116,
+        "icon": "UI_NameCardIcon_Mizuki",
+        "picPath": [
+            "UI_NameCardPic_Mizuki_Alpha",
+            "UI_NameCardPic_Mizuki_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
+    },
+    "210234": {
+        "nameTextMapHash": 3271574436,
+        "icon": "UI_NameCardIcon_TowerChallenge",
+        "picPath": [
+            "UI_NameCardPic_TowerChallenge_Alpha",
+            "UI_NameCardPic_TowerChallenge_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
+    },
+    "210235": {
+        "nameTextMapHash": 3501907004,
+        "icon": "UI_NameCardIcon_Bp39",
+        "picPath": [
+            "UI_NameCardPic_Bp39_Alpha",
+            "UI_NameCardPic_Bp39_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
+    },
+    "210236": {
+        "nameTextMapHash": 1843453484,
+        "icon": "UI_NameCardIcon_Varesa",
+        "picPath": [
+            "UI_NameCardPic_Varesa_Alpha",
+            "UI_NameCardPic_Varesa_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
+    },
+    "210237": {
+        "nameTextMapHash": 211293332,
+        "icon": "UI_NameCardIcon_Iansan",
+        "picPath": [
+            "UI_NameCardPic_Iansan_Alpha",
+            "UI_NameCardPic_Iansan_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
+    },
+    "210238": {
+        "nameTextMapHash": 3534009820,
+        "icon": "UI_NameCardIcon_Natlan3",
+        "picPath": [
+            "UI_NameCardPic_Natlan3_Alpha",
+            "UI_NameCardPic_Natlan3_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
+    },
+    "210239": {
+        "nameTextMapHash": 1139221932,
+        "icon": "UI_NameCardIcon_Dfcq3",
+        "picPath": [
+            "UI_NameCardPic_Dfcq3_Alpha",
+            "UI_NameCardPic_Dfcq3_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
+    },
+    "210240": {
+        "nameTextMapHash": 3539964212,
+        "icon": "UI_NameCardIcon_Bp40",
+        "picPath": [
+            "UI_NameCardPic_Bp40_Alpha",
+            "UI_NameCardPic_Bp40_P"
+        ],
+        "rankLevel": 4,
+        "materialType": "MATERIAL_NAMECARD"
     }
 }
