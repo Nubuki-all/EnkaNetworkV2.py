@@ -44,6 +44,8 @@ _DATA_LANG = {
 def save_json(NAME_JSON, data, path = "data"):
     global _PATH
     
+    if not data:
+        return
     with open(f"{_PATH}/{path}/{NAME_JSON}", "w", encoding="utf-8") as file:
         json.dump(data, file, indent=4, ensure_ascii=False)
 
