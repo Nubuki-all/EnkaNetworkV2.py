@@ -3,6 +3,7 @@ from __future__ import annotations
 import json
 import logging
 import os
+import traceback
 
 from typing import Union, Optional, Type, TYPE_CHECKING, List, Any, Dict
 
@@ -400,8 +401,14 @@ class EnkaNetworkAPI:
         if not isinstance(lang, list):
             raise TypeError("The lang argument must be a list")
         
-        await enka_update.dowload(path= path, lang = lang)
-        await update_pfps(path = path)        
+        try:
+            await enka_update.dowload(path= path, lang = lang)
+        except Exception:
+            self.LOGGER.error(traceback.format_exc())
+        try:
+            await update_pfps(path = path)
+        except Exception:
+            self.LOGGER.error(traceback.format_exc())      
         self.assets.reload_assets()
         
     async def __format_hoyos(self, username: str, data: List[Any]) -> List[PlayerHoyos]:  # noqa
